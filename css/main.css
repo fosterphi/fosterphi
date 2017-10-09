@@ -1075,7 +1075,7 @@ ul.address {
   background: #d5ab07;
 }
 .twitter_scroll{
-height:500px;
-width:100%;
+height:100px;
+width:100px;
 overflow:scroll;
 }
